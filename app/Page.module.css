@@ -1,0 +1,16 @@
+#heading {
+    background: linear-gradient(180deg, #fff, #adadad);
+    -webkit-background-clip: text;
+    background-clip: text;
+    color: transparent;
+}
+
+#coverImg{
+    width: 100%;
+    height: 58%;
+}
+
+#video{
+    width: 100%;
+    height: 58%;
+}
